@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "cybersecurity"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "blackchain"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "PYTHON"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Machine Learning"
+    }
+  ]
+}
